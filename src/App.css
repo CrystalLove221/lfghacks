@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .App-logo {
@@ -19,15 +21,13 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.carousel{
+  margin-left: auto;
+  margin-right: auto;
+  height: 600px;
+  width: auto;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.good{
+  background: #00FF00;
 }
